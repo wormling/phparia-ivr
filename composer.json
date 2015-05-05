@@ -1,10 +1,10 @@
 {
-    "name": "wormling/phparia-ivr",
+    "name": "wormling/phpariaIvr",
     "type": "library",
     "minimum-stability": "dev",
     "description": "Asterisk REST Interface (ARI) IVR library for PHP",
     "keywords": ["asterisk", "ari", "ivr", "telephony", "voip"],
-    "homepage": "http://wormling.github.com/phparia-ivr",
+    "homepage": "http://wormling.github.com/phpariaIvr",
     "license": "Apache-2.0",
     "authors": [
         {
